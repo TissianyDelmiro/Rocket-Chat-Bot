@@ -5,6 +5,7 @@ Chatbot com IA construido com Next.js 16, Vercel AI SDK e Groq.
 <img width="1316" height="974" alt="Captura de tela 2026-04-06 101948" src="https://github.com/user-attachments/assets/fb1e779a-2adf-46cf-890b-fe480d876c81" />
 <img width="1640" height="972" alt="Captura de tela 2026-04-06 102013" src="https://github.com/user-attachments/assets/751b76d8-46d7-46d3-a7c4-ede2e1d8987e" />
 <img width="1221" height="963" alt="image" src="https://github.com/user-attachments/assets/20b1095e-f685-44c9-8bc4-144aa9dfea71" />
+<img width="1201" height="977" alt="image" src="https://github.com/user-attachments/assets/a556ac80-eaca-46c3-b677-d826820bcf98" />
 <img width="864" height="703" alt="Design sem nome" src="https://github.com/user-attachments/assets/1c2fd17c-5bee-42a3-bee6-28d720cafb13" />
 
 
