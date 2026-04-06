@@ -2,9 +2,13 @@
 
 Chatbot com IA construido com Next.js 16, Vercel AI SDK e Groq.
 
-<img width="1851" height="988" alt="Captura de tela 2026-04-05 190725" src="https://github.com/user-attachments/assets/7313b303-4a68-4b43-aecc-48471c0ba20c" />
-<img width="1852" height="977" alt="Captura de tela 2026-04-05 191345" src="https://github.com/user-attachments/assets/bc39a682-f258-4bad-a120-d5f6b076e5b5" />
-<img width="1847" height="974" alt="Captura de tela 2026-04-05 191136" src="https://github.com/user-attachments/assets/9b7f774e-df5b-4cbd-9350-51ca784f8117" />
+<img width="1316" height="974" alt="Captura de tela 2026-04-06 101948" src="https://github.com/user-attachments/assets/fb1e779a-2adf-46cf-890b-fe480d876c81" />
+<img width="1640" height="972" alt="Captura de tela 2026-04-06 102013" src="https://github.com/user-attachments/assets/751b76d8-46d7-46d3-a7c4-ede2e1d8987e" />
+<img width="1221" height="981" alt="image" src="https://github.com/user-attachments/assets/d25aec9f-65ed-4d0c-9ac8-0b025bb1778d" />
+<img width="864" height="703" alt="Design sem nome" src="https://github.com/user-attachments/assets/1c2fd17c-5bee-42a3-bee6-28d720cafb13" />
+
+
+
 
 
 ## Funcionalidades
